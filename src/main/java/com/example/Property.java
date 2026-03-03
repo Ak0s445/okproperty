@@ -13,8 +13,8 @@ package com.example;
 
 public class Property {
 
-    String city;       // település
-    String address;    // cím
-    int zipCode;       // irányítószám
+    String city;      
+    String address;    
+    int zipCode;       
 
 }
